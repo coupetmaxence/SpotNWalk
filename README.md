@@ -1,1 +1,2 @@
-# SpotNWalk
+# Projet Spot&Walk
+

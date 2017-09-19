@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_all"
+            android:icon="@drawable/all_categories"
+            android:title="Tous les spots" />
+        <item android:id="@+id/nav_incontournables"
+            android:icon="@drawable/monuments_historiques"
+            android:title="Incontournables" />
+        <item android:id="@+id/nav_street_art"
+            android:icon="@drawable/street_art"
+            android:title="Expos et street art" />
+        <item android:id="@+id/nav_insolites"
+            android:icon="@drawable/insolite"
+            android:title="Insolites" />
+        <item android:id="@+id/nav_espaces_verts"
+            android:icon="@drawable/insolite"
+            android:title="Espaces verts" />
+        <item android:id="@+id/nav_festivals"
+            android:icon="@drawable/insolite"
+            android:title="Festivals et art éphémère" />
+        <item android:id="@+id/nav_panoramas"
+            android:icon="@drawable/insolite"
+            android:title="Panoramas" />
+    </group>
+
+    <item android:title="Où manger ?">
+        <menu>
+            <item android:id="@+id/nav_shar"
+                android:icon="@drawable/restaurant"
+                android:title="Nos tables préférées" />
+        </menu>
+    </item>
+
+    <item android:title="Découvrir">
+        <menu>
+            <item android:id="@+id/nav_share"
+                android:icon="@drawable/parcours"
+                android:title="Parcours" />
+        </menu>
+    </item>
+
+
+</menu>
