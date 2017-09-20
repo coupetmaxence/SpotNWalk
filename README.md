@@ -1,6 +1,6 @@
-<p class="center">
+
   <img alt="logo" src="../..//tree/master/img/logo_appli.png"/>
-</p>
+
 
 
 # Project Spot&Walk
