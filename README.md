@@ -23,3 +23,8 @@ Main view            |  Categories         |Adding a location
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="../master/img/marqueurs.png">  |  <img src="../master/img/categories.png"> | <img src="../master/img/ajout_spot.png"> 
 
+Creating a path            |  Path in the application         
+:-------------------------:|:-------------------------:
+<img src="../master/img/ajout_parcours.png">  |  <img src="../master/img/parcours.png"> 
+
+
