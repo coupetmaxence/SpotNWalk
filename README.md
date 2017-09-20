@@ -1,6 +1,8 @@
 <p class="center">
-  <img alt="logo" src="../..//tree/master/img/logo_application.png"/>
+  <img alt="logo" src="../..//tree/master/img/logo_appli.png"/>
 </p>
+
+
 # Project Spot&Walk
 
 This Android application gives to its users the ability to share their favorites locations, panoramas, parks or even street art, in their city and all around the world. Moreover, the application can create a random path between diferent locations in the database in order to discover unknown locations of the town.
