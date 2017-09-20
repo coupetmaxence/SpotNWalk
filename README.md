@@ -1,5 +1,5 @@
-
-  <img alt="logo" src="../..//tree/master/img/logo_appli.png">
+<div style="text-align:center"><img alt="logo" src="../..//tree/master/img/logo_appli.png"></div>
+  
 
 
 
