@@ -22,9 +22,3 @@ Our MySQL database is stored on a webservice called AlwaysData. It contains the 
 Main view            |  Categories         |Adding a location |Creating a path            |  Path in the application    
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="../master/img/marqueurs.png">  |  <img src="../master/img/categories.png"> | <img src="../master/img/ajout_spot.png"> |<img src="../master/img/ajout_parcours.png">  |  <img src="../master/img/parcours.png"> 
-
-Creating a path            |  Path in the application         
-:-------------------------:|:-------------------------:
-<img src="../master/img/ajout_parcours.png">  |  <img src="../master/img/parcours.png"> 
-
-
