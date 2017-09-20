@@ -1,5 +1,5 @@
 <p class="center">
-  <img src="../..//tree/master/img/logo_application.png"/>
+  <img alt="logo" src="../..//tree/master/img/logo_application.png"/>
 </p>
 # Project Spot&Walk
 
