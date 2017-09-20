@@ -1,4 +1,4 @@
-<div style="text-align:center"><img alt="logo" src="../..//tree/master/img/logo_appli.png"></div>
+<div style="text-align:center"><img src="../..//tree/master/img/logo_appli.png"></div>
   
 
 
